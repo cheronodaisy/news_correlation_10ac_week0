@@ -1,0 +1,5 @@
+# ignore everything in the following folders
+data/**
+
+# Environments
+myenv/
