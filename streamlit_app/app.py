@@ -23,7 +23,7 @@ def load_data(file_path):
 df = load_data('../data/domains_location.csv')
 
 add_selectbox = st.sidebar.selectbox(
-    "How would you like to be contacted?",
+    "Contact Us",
     ("Email", "Home phone", "Mobile phone")
 )
 
